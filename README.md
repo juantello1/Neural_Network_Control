@@ -2,14 +2,18 @@
 
 This repository contains the development, implementation, and analysis of neural network-based control strategies applied to low-cost educational platforms.
 
+<div align="center">
 <img src="Images/levitator.png" width="250"/>
+</div>
 
 > ⚠️ **Note:** The neural network controller included in this project was implemented **natively**, without the use of machine learning libraries such as TensorFlow or PyTorch. All computations were carried out using **basic numerical operations** and standard Python libraries, ensuring full transparency and adaptability of the control logic.
 ## Objective
 
 To explore and implement intelligent control techniques (specifically neural network control) for affordable physical systems, aiming to strengthen hands-on learning in automation and control engineering.
 
+<div align="center">
 <img src="Images/Neural_Network.png" width="250"/>
+</div>
 
 ## 📁 Repository Structure
 
