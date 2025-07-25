@@ -1,7 +1,7 @@
 # Neural Network Control Insights and Strategies in Low-Cost Educational Platforms
 
 This repository contains the development, implementation, and analysis of neural network-based control strategies applied to low-cost educational platforms.
-
+> ⚠️ **Note:** The neural network controller included in this project was implemented **natively**, without the use of machine learning libraries such as TensorFlow or PyTorch. All computations were carried out using **basic numerical operations** and standard Python libraries, ensuring full transparency and adaptability of the control logic.
 ## Objective
 
 To explore and implement intelligent control techniques (specifically neural network control) for affordable physical systems, aiming to strengthen hands-on learning in automation and control engineering.
@@ -12,17 +12,20 @@ To explore and implement intelligent control techniques (specifically neural net
 ├── Neural_Network_Controller.py # Main neural network controller
 ├── PID_Controller.py # Comparison with classical PID control
 ├── levitator_communication_Python/ # Communication code for the physical system
-├── utils/ # Auxiliary functions (normalization, training, etc.)
 
-``` 
+Data/
+├── *.xlsx # Experimental datasets and results
+
+Drawings/
+├── *.png / *.pdf # System diagrams, schematics, and documentation
+
 
 ## ⚙️ Technologies Used
 
 - Python 3.11+
-- TensorFlow / PyTorch (depending on the implementation)
 - matplotlib, numpy, pandas
 - Arduino (for the physical plant)
-- Visual Studio Code
+
 
 ## Experimental Validation
 
@@ -52,4 +55,4 @@ Control Engineer
 
 📄 License
 This project is licensed under the MIT License. Feel free to use it for academic and research purposes. 
-```bash
+
