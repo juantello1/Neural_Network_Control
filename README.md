@@ -15,7 +15,7 @@ To explore and implement intelligent control techniques (specifically neural net
 <img src="Images/Neural_Network.png" width="250"/>
 </div>
 
-## 📁 Repository Structure
+## Repository Structure
 
 ### Codes/
 ├── Neural_Network_Controller.py # Main neural network controller
@@ -26,10 +26,10 @@ To explore and implement intelligent control techniques (specifically neural net
 ├── *.xlsx # Experimental datasets and results
 
 ### Drawings/
-├── *.png / *.pdf # System diagrams, schematics, and documentation
+├── *.png / *.pdf # Drawings (mm), System diagram and schematics 
 
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - Python 3.11+
 - matplotlib, numpy, pandas
@@ -65,7 +65,7 @@ Control Engineer
 📫 juan_tello91142_@elpoli.edu.co-
     juanmanueltellom@gmail.com
 
-📄 License
+ License
 
 This project is licensed under the MIT License. Feel free to use it for academic and research purposes. 
 
