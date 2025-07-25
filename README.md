@@ -8,15 +8,13 @@ To explore and implement intelligent control techniques (specifically neural net
 
 ## 📁 Repository Structure
 
-Codes/
+```Codes/
 ├── Neural_Network_Controller.py # Main neural network controller
 ├── PID_Controller.py # Comparison with classical PID control
 ├── levitator_communication_Python/ # Communication code for the physical system
 ├── utils/ # Auxiliary functions (normalization, training, etc.)
 
-markdown
-Copiar
-Editar
+``` 
 
 ## ⚙️ Technologies Used
 
@@ -39,15 +37,10 @@ git clone https://github.com/juantello1/Neural_Network_Control.git
 cd Neural_Network_Control
 Install dependencies:
 
-bash
-Copiar
-Editar
 pip install -r requirements.txt
 Run the controller:
 
-bash
-Copiar
-Editar
+
 python Codes/Neural_Network_Controller.py
 Ensure the plant is connected and the serial communication is correctly configured.
 
@@ -59,3 +52,4 @@ Control Engineer
 
 📄 License
 This project is licensed under the MIT License. Feel free to use it for academic and research purposes. 
+```bash
