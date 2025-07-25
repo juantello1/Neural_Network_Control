@@ -8,15 +8,15 @@ To explore and implement intelligent control techniques (specifically neural net
 
 ## 📁 Repository Structure
 
-```Codes/
+### Codes/
 ├── Neural_Network_Controller.py # Main neural network controller
 ├── PID_Controller.py # Comparison with classical PID control
 ├── levitator_communication_Python/ # Communication code for the physical system
 
-Data/
+### Data/
 ├── *.xlsx # Experimental datasets and results
 
-Drawings/
+### Drawings/
 ├── *.png / *.pdf # System diagrams, schematics, and documentation
 
 
@@ -35,7 +35,6 @@ The system has been tested on a didactic pneumatic levitation plant, enabling a 
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/juantello1/Neural_Network_Control.git
 cd Neural_Network_Control
 Install dependencies:
