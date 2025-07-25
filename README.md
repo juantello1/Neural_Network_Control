@@ -26,7 +26,7 @@ To explore and implement intelligent control techniques (specifically neural net
 ├── *.xlsx # Experimental datasets and results
 
 ### Drawings/
-├── *.png / *.pdf # Drawings (mm), System diagram and schematics 
+├── *.png / *.pdf # Drawings (mm), System diagram, schematics and STL files for 3D printer.
 
 
 ## Technologies Used
